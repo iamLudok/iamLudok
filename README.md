@@ -58,12 +58,6 @@ La RaspBerry Pi era el cerebro del coche y sus diferentes funcionalidades son:
     <td>Description</td>
   </tr>
 </table>
-  
-<ul>
-  <li>📫 How to reach me: <b>lukeniri@gmail.com</b></li>
-
-  <li>⚔️ Fun fact: <b>I am a DJ (DJ Ludok)</b>🎚️🎛️🎚️</li>
-</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -116,8 +110,4 @@ La RaspBerry Pi era el cerebro del coche y sus diferentes funcionalidades son:
 </p>
 
 <p><img align="left" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=iamLudok&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="iamLudok" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamLudok&show_icons=true&locale=en" alt="iamLudok" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamLudok&" alt="iamLudok" /></p>
 
