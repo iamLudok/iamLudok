@@ -24,19 +24,23 @@
     <td><a href="https://github.com/iamLudok/EdenHaven">Eden Haven</a></td>
     <td>2019</td>
     <td>Java</td>
-    <td>Description</td>
+    <td>Proyecto desarrollado en el segundo curso del grado en ingeniería informática. Se trataba de un PBL (Project Based Learning) y se nos pidió desarrollar un programa en Java Swing, conectado por MQTT a una placa STM32 conectado a diferentes sensores. Además, gracias a los hilos y túneles de Azure RTOS, enviábamos datos en tiempo real a nuestro programa de Java. Por otra parte, debía de tener relación con los ODS (Objetivos de Desarrollo Sostenible). En cuanto a los objetos físicos utilizados, hicimos uso de un sensor de humedad, un sensor de temperatura y un sensor de gas.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/iamLudok/CocheAutonomo">Coche Autonomo</a></td>
     <td>2020</td>
     <td>C</td>
-    <td>Description</td>
+    <td>Proyecto desarrollado en el primer curso del grado en ingeniería informática. Se trataba de un PBL (Project Based Learning) y se nos pidió desarrollar un coche autónomo, utilizando tecnologías como VHDL, Bluetooth, Pigpio y C. Además, debía de tener relación con los ODS (Objetivos de Desarrollo Sostenible). En cuanto a los objetos físicos utilizados, hicimos uso de una placa de Basys 3 y una RaspBerry Pi. 
+El objetivo, era que programando la Basys3 con VHDL y haciendo uso de Bluetooth, hiciéramos un mando teledirigido para controlar nuestro coche. 
+La RaspBerry Pi era el cerebro del coche y sus diferentes funcionalidades son:
+1) Seguir las líneas negras gracias a varios sensores ldr.
+2) Metiéndole un "datos.txt" donde aparece el mapa en el que le vamos a dejar, con los puntos de inicio y final, encuentra el camino mas rápido utilizando el método Dijkstra.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/iamLudok/Hiroshima-City">Hiroshima-City</a></td>
     <td>2020</td>
     <td>C</td>
-    <td>Description</td>
+    <td>Proyecto desarrollado en el primer curso del grado en ingeniería informática. Se trataba de un PBL (Project Based Learning) y se nos pidió desarrollar un juego programado en C, utilizando la librería sdl2 y que debía de tener relación con los ODS (Objetivos de Desarrollo Sostenible). Nuestra idea fue crear un juego basado en la tragedia de Hiroshima. Al principio del juego, la ciudad está completamente destrozada, la salud, la educación y la economía están por los suelos. Pero, poco a poco el jugador debe de ir consiguiendo dinero y mejorando los edificios para conseguir una ciudad renovada.</td>
   </tr>
   <tr>
     <th colspan="4">🎨 My personal projects</th>
