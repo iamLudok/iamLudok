@@ -55,7 +55,7 @@ La RaspBerry Pi era el cerebro del coche y sus diferentes funcionalidades son:
     <td><a href="https://github.com/iamLudok/LudokSound">LudokSound</a></td>
     <td>2024</td>
     <td>Java</td>
-    <td>Description</td>
+    <td>Soon...</td>
   </tr>
 </table>
 
