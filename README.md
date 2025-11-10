@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔬 **TFG Project** at **ULMA Handling Systems** - Developing cognitive search systems
+- 🔬 **TFG Project** at **ULMA Handling Systems** - Working with AI
 - 📚 **Computer Engineering Student** at **Mondragon Unibertsitatea**
 - 🎧 **DJ/Producer** as **Ludok** - Afro House • Melodic Techno • Indie Dance • Progressive House
 - 🛡️ **CTF Enthusiast** - Active in cybersecurity competitions
@@ -98,13 +98,13 @@
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=iamLudok&langs_count=10&layout=compact&theme=tokyonight&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=iamLudok&langs_count=10&layout=compact&theme=radical&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamLudok&show_icons=true&theme=tokyonight&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamLudok&show_icons=true&theme=radical&locale=en)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamLudok&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamLudok&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamLudok&theme=tokyonight&margin-w=15&column=6&title=-Issues,-Reviews,-PullRequest)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamLudok&theme=radical&margin-w=15&column=6&title=-Issues,-Reviews,-PullRequest)
 
 </div>
 
