@@ -1,7 +1,15 @@
 <h1 align="center">Hi, I'm Luken</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamLudok&label=Profile%20views&color=0e75b6&style=flat" alt="iamLudok" /> </p>
+#
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamLudok&show_icons=true&icon_color=a80000&text_color=505050&bg_color=e0e0e0&title_color=003f61&custom_title=Stats"/>
+
+### Contact me
+
+<br>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luken-iriondo-bilbao/)
 
 <ul>
   <li>🈺 I’m currently working at <b>ULMA Handling Systems</b></li>
