@@ -43,18 +43,18 @@
 ## 💼 Featured Projects
 
 ### 🧠 Personal Projects
+> Many projects are private as they're currently under development
 
-| Project | Year | Tech Stack | Description |
-|---------|------|------------|-------------|
-| **[LudokSound](https://github.com/iamLudok/LudokSound)** | 2024 | Java, ML | Music analysis and visualization tool for DJ performance enhancement |
-
-### 🎓 Academic Projects
-
-| Project | Year | Tech Stack | Description |
-|---------|------|------------|-------------|
-| **[Eden Haven](https://github.com/iamLudok/EdenHaven)** | 2019 | Java, MQTT, STM32 | IoT environmental monitoring system with real-time data transmission via Azure RTOS |
-| **[Autonomous Car](https://github.com/iamLudok/CocheAutonomo)** | 2020 | C, VHDL, Raspberry Pi | Self-driving car with line following and pathfinding using Dijkstra's algorithm |
-| **[Hiroshima City](https://github.com/iamLudok/Hiroshima-City)** | 2020 | C, SDL2 | City rebuilding simulation game focusing on sustainable development goals |
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **[AI Bookmarks](https://github.com/iamLudok/ai-bookmarks)** | HTML, CSS, JS | Curated collection of tested and recommended free/freemium AI tools |
+| **[Music Genre Classifier](https://github.com/iamLudok/MusicGenreClasificator)** | ML, Audio Processing | Automated music organization system that classifies and groups large song libraries by genre |
+| **[Music Visualizer Generator](https://github.com/iamLudok/Generador-Visuales-Musicales)** | Python, Audio/Video | Real-time visual generator for DJs and live performances |
+| **[Jai Alai Bot](https://github.com/iamLudok/JaiAlaiBot)** | NLP, Chatbot | AI chatbot with specialized knowledge about Jai Alai sport and culture |
+| **[Claude Code Template](https://github.com/iamLudok/Plantilla-Claude-Code)** | Development Tools | Boilerplate template to accelerate development workflows with Claude Code |
+| **[Euskal Herriko Teknoa Web](https://github.com/iamLudok/euskal_herriko_teknoa_web)** | Web Development | Portfolio website integrated with Instagram [@euskal_herriko_teknoa](https://instagram.com/euskal_herriko_teknoa) |
+| **[Playlist Downloader](https://github.com/iamLudok/Spotify_and_SoundCloud_Playlist_to_WAV)** | Python, API Integration | Batch download tool for SoundCloud and Spotify playlists via YouTube |
+| **[Eguneroko Bot](https://github.com/iamLudok/Eguneroko_Bot)** | Automation, Chatbot | Daily task automation assistant to optimize time management |
 
 ---
 
